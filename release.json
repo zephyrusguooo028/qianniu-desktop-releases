@@ -1,13 +1,13 @@
 {
-    "version":  "1.2.4",
+    "version":  "1.2.5",
     "min_version":  "1.0.0",
     "release_date":  "2026-07-11",
     "changelog":  "",
     "packages":  {
                      "installer":  {
-                                       "filename":  "QianniuDashboard-Setup-1.2.4-x64.exe",
-                                       "origin_url":  "https://github.com/zephyrusguooo028/qianniu-desktop-releases/releases/download/v1.2.4/QianniuDashboard-Setup-1.2.4-x64.exe",
-                                       "sha256":  "0f6fc39c52cab3ca3f26eb00e3108885e8d27e3aabb588aeba459303f8157c55",
+                                       "filename":  "QianniuDashboard-Setup-1.2.5-x64.exe",
+                                       "origin_url":  "https://github.com/zephyrusguooo028/qianniu-desktop-releases/releases/download/v1.2.5/QianniuDashboard-Setup-1.2.5-x64.exe",
+                                       "sha256":  "29827a0bc6745be7f6e9ca3b2b058a58e66b98993c620d77901b4e30a764c7f1",
                                        "file_size_mb":  101.2
                                    }
                  },
